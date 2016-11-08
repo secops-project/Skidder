@@ -1,2 +1,2 @@
 # Skidder
-Scripts and apps for log grabbing, parsing and transportation
+Skidder - your log handling's best friend!  
